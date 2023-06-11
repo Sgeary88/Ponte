@@ -57,7 +57,7 @@
 
 .section-b {
 	position: relative;
-	background: url('/dist/img/background-overlay.jpg') no-repeat bottom center/cover;
+	background: url('/dist/img/overlay.jpg') no-repeat center/cover;
 	height: 600px;
 }
 
